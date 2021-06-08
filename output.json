@@ -1,0 +1,9 @@
+{
+  "AppsyncWorkshopStack": {
+    "STACKREGION": "us-east-1",
+    "GraphQLAPIID": "boh4lqu6gfd4xdf6uzxnf6pznm",
+    "GraphQLAPIURL": "https://hhcyovelebgipjn7kse5uwa7me.appsync-api.us-east-1.amazonaws.com/graphql",
+    "USERPOOLSID": "us-east-1_ewtVsrorq",
+    "USERPOOLSWEBCLIENTID": "1iirpql7ug6a361t13bikb3cbo"
+  }
+}
